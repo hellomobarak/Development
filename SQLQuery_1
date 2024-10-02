@@ -1,0 +1,3 @@
+INSERT INTO Customers1(customerID, Name, Fixed_Salary,Bonus_in_August)
+VALUEs(25 , 'suma', '$125', '$300')
+

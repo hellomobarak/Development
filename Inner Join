@@ -1,0 +1,8 @@
+SELECT first_name, Brand, Price
+
+FROM google_salaries
+
+INNER JOIN google_laptop
+
+ON google_salaries.Empid = google_laptop.Empid
+
